@@ -1,0 +1,22 @@
+/.vscode/
+/build/
+
+# CMake
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+
+# Visual Studio / MSVC
+*.vcxproj*
+*.sln
+*.user
+*.opendb
+*.VC.db
+*.pdb
+Debug/
+Release/
+
+# Misc
+*.log
+
